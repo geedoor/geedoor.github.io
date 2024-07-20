@@ -16,12 +16,12 @@ jobs:
         uses: actions/checkout@v2
       - name: Get Files
         run: |
-          curl -o vmess.txt -LJO "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vmess"
-          curl -o vless.txt -LJO "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/vless"
+          curl -o aktif.txt -LJO "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt"
+          curl -o semua.txt -LJO "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
       - name: Push And Update Files
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add .
-          git commit -m "🚀Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S') Asia/Tehran"
+          git commit -m "🚀Servers Updated - $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') Asia/Tehran"
           git push
