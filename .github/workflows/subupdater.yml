@@ -18,10 +18,11 @@ jobs:
         run: |
           curl -o aktif.txt -LJO "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/actives.txt"
           curl -o semua.txt -LJO "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
+          curl -o kumpulan-p1.txt -LJO "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes"
       - name: Push And Update Files
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add .
-          git commit -m "🚀Servers Updated - $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') Asia/Tehran"
+          git commit -m "Diperbarui pada - $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') WIB"
           git push
