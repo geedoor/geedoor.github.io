@@ -20,10 +20,12 @@ jobs:
           curl -o semua.txt -LJO "https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/row-url/all.txt"
           curl -o kumpulan-p1.txt -LJO "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes"
           curl -o kumpulan-p2.txt -LJO "https://raw.githubusercontent.com/hkpc/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt"
+          curl -o kumpulan $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S').txt -LJO "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes"
+
       - name: Push And Update Files
         run: |
           git config --global user.name "geedoor"
           git config --global user.email "kuyshare@gmx.com"
           git add .
-          git commit -m "Diperbarui pada - $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') WIB"
+          git commit -m "Diperbarui pada $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') WIB"
           git push
