@@ -26,5 +26,5 @@ jobs:
           git config --global user.name "geedoor"
           git config --global user.email "kuyshare@gmx.com"
           git add .
-          git commit -m "Diperbarui pada $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') WIB"
+          git commit -m "Diperbarui pada - $(TZ='Asia/Jakarta' date '+%Y-%m-%d %H:%M:%S') WIB"
           git push
