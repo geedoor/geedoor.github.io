@@ -756,7 +756,6 @@ vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.167:443?path=%2F%3Fproxyi
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@152.69.210.245:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=ov.ylkszy.eu.org#😍 @v2ray_configs_pool😍`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@206.238.236.46:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ov.ylks.xyz#😍 @v2ray_configs_pool😍`
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@69.84.182.145:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=ov.ylkszy.eu.org#😍 @v2ray_configs_pool😍`
-vless://6ee42f60-cd65-4ab8-bb79-991d12ae877f@54.220.213.97:8880?security=none&encryption=none&headerType=none&type=tcp#😍 @v2ray_configs_pool😍`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@205.233.181.211:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.218.11.90:2087?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ok.ylks.xyz#😍 @v2ray_configs_pool😍`
 vless://d7dd3a35-b68b-4992-b319-a85b8a1fc8e5@43.156.6.97:10392?path=%2F&security=tls&encryption=none&type=ws&sni=dns68.putata.eu.org#😍 @v2ray_configs_pool😍`
@@ -773,7 +772,6 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@51.107.11.76:8443?path=%2Fblue&secu
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.85:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ok.ylks.xyz#😍 @v2ray_configs_pool😍`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@204.93.210.201:8443?path=twitter%E8%8B%8F%E5%B0%8F%E6%9F%A0&security=tls&encryption=none&type=ws&sni=a.ssll.gay#😍 @v2ray_configs_pool😍`
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@205.233.181.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#😍 @v2ray_configs_pool😍`
-vless://e93cf2d8-c56f-420e-b97b-5232bab743ec@185.146.173.58:8080?path=%2Fservernett&security=none&encryption=none&type=ws#😍 @v2ray_configs_pool😍`
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:2083?path=twitterfreecodes&security=tls&encryption=none&type=ws&sni=a.ssll.gay#😍 @v2ray_configs_pool😍`
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@43.153.181.217:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=ov.ylkszy.eu.org#😍 @v2ray_configs_pool😍`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@181.214.1.190:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
@@ -799,7 +797,6 @@ vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@91.193.58.119:2053?path=%2F&securit
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.143:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ok.ylks.xyz#😍 @v2ray_configs_pool😍`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.196:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@3.67.232.136:443?path=%2Fpai6buclahf9cxx3%3Fed&security=tls&encryption=none&type=ws&sni=ov.ylks.xyz#😍 @v2ray_configs_pool😍`
-vless://Parsashonam-46@185.146.173.39:8880?path=%2F&security=none&encryption=none&type=httpupgrade#😍 @v2ray_configs_pool😍`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.59.218.169:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.67.215.101:443?path=%2F3b2dg5zv2kftsfko%3Fed&security=tls&encryption=none&type=ws&sni=ov.ylks.xyz#😍 @v2ray_configs_pool😍`
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@115.88.75.154:50026?path=%2Fblue&security=tls&encryption=none&type=ws&sni=ok.ylks.xyz#😍 @v2ray_configs_pool😍`
@@ -819,3 +816,16 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.176:443?path=%2Ftg%40zdyz2
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.22.116.198:443?path=tg%40zdyz2security&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@107.172.103.159:45678?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=ov.ylkszy.eu.org#😍 @v2ray_configs_pool😍`
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.18.250.109:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.174.138.220:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@193.228.128.51:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=oj.ylks01.eu.org#😍 @v2ray_configs_pool😍`
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.232:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=oj.ylks01.eu.org#😍 @v2ray_configs_pool😍`
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@51.140.85.89:2053?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ox.ylks.xyz#😍 @v2ray_configs_pool😍`
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.90:443?path=%2F&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#😍 @v2ray_configs_pool😍`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@45.159.216.57:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@168.100.6.233:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@45.67.215.4:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ov.ylkszy.eu.org#😍 @v2ray_configs_pool😍`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@103.169.142.104:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.85.93.51:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ov.ylks.xyz#😍 @v2ray_configs_pool😍`
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.148.104.178:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#😍 @v2ray_configs_pool😍`
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.127:443?path=%2F%3Fproxyip&security=tls&encryption=none&type=ws&sni=ox.ylks.xyz#😍 @v2ray_configs_pool😍`
