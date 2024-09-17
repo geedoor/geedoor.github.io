@@ -1,4 +1,4 @@
-name: Subscription Update
+name: Subscription Updater
 
 on:
   push:
@@ -21,7 +21,13 @@ jobs:
           curl -o kumpulan-p1.txt -LJO "https://raw.githubusercontent.com/LalatinaHub/Mineral/master/result/nodes"
           curl -o kumpulan-p2.txt -LJO "https://raw.githubusercontent.com/hkpc/V2ray-Configs/main/Splitted-By-Protocol/vmess.txt"
           curl -o kumpulan-p3.txt -LJO "https://github.com/Surfboardv2ray/TGParse/raw/main/configtg.txt"
-          
+          curl -o subapi -LJO "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt"
+          curl -o v2tel_link.txt -LJO "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_link.txt"
+          curl -o cm1.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml"
+          curl -o cm2.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-1.yaml"
+          curl -o cm3.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml"
+        
+        
       - name: Push And Update Files
         run: |
           git config --global user.name "geedoor"
