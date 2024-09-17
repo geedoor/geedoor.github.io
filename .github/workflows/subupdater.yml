@@ -23,6 +23,8 @@ jobs:
           curl -o kumpulan-p3.txt -LJO "https://github.com/Surfboardv2ray/TGParse/raw/main/configtg.txt"
           curl -o subapi -LJO "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt"
           curl -o v2tel_link.txt -LJO "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_link.txt"
+          curl -o v2tel_links1.txt -LJO "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt"
+          curl -o v2tel_links2.txt -LJO "https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt"
           curl -o cm1.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml"
           curl -o cm2.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-1.yaml"
           curl -o cm3.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml"
