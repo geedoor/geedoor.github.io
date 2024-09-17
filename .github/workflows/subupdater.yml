@@ -26,7 +26,7 @@ jobs:
           curl -o cm1.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml"
           curl -o cm2.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-1.yaml"
           curl -o cm3.yml -LJO "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml"
-        
+          curl -o tgproxy.txt -LJO "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/TELEGRAM_PROXY_SUB/main/TELEGRAM_PROXY.txt"      
         
       - name: Push And Update Files
         run: |
