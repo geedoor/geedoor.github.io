@@ -1,10 +1,10 @@
-https://t.me/proxy?server=185.234.65.204&port=155&secret=een9ZIOVcuxEjkyt7TiWmgtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=103.161.35.23&port=155&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=172.233.123.197&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q
+https://t.me/proxy?server=95.169.173.231&port=85&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0
 https://t.me/proxy?server=176.65.128.68&port=85&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0
 https://t.me/proxy?server=140.233.187.135&port=888&secret=eeRigzNJvXrFGRMCIMJdEA
-https://t.me/proxy?server=103.161.34.73&port=155&secret=eeRighJJvXrFGRMCIMJdCQAA
 https://t.me/proxy?server=140.233.187.131&port=888&secret=eeRigzNJvXrFGRMCIMJdEA
-https://t.me/proxy?server=synce-star.sensia-star.info&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s
-https://t.me/proxy?server=198.154.93.2&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1kaXZhci5pcg
-https://t.me/proxy?server=188.213.129.184&port=155&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=saeedam.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.www.enamad.ir.www.goole.tls.8-58-185.ir&port=4443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=77.232.41.90&port=3598&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXMtLS0tLS0%3D
+https://t.me/proxy?server=194.120.230.108&port=85&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS1pbi5hcHBjZW50ZXIubXM%3D
+https://t.me/proxy?server=172.233.123.197&port=8087&secret=FgMBAgABAAH8AwOG4kw63Q
+https://t.me/proxy?server=95.169.173.231&port=85&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0
+https://t.me/proxy?server=176.65.128.68&port=85&secret=7gAA8A8Pd__1VV______9QB2LmMtLS0
