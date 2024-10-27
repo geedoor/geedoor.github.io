@@ -3885,3 +3885,10 @@ vless://7aa7924e-1440-48c2-a6fe-d0d8a66a2aa4@172.67.204.84:8080?security=none&ty
 trojan://auto@162.159.133.85:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev&path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&fp=randomized#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.40.247.248:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://7aa7924e-1440-48c2-a6fe-d0d8a66a2aa4@172.67.204.84:8080?security=none&type=ws&host=FySuMyYk3.aMirsiTesos.sItE.&path=%2F#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.236.104.228:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://bm9uZTpiY2NhYmFhLWFiYWMtYWNiYS1hY2RiLWFjYmFjYWJiY2JjYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://telegram-id-privatevpns@52.211.127.197:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://59e346e1-558b-49b8-a30c-bc1a07de84b0@151.101.194.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=TEL.VMESSORG.http.www.speedtest.net.fast.com.vmessorgg.ir&path=%2FTelegram%3A%40vmessorg-Telegram%3A%40vmessorg-Telegram%3A%40vmessorg%3Fed%3D8880&fp=firefox#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3542952f-fabc-4556-b68b-dcd4e21c3944@95.164.117.128:8880?security=reality&encryption=none&pbk=ra4OxEIGMgGc84ujeHHHuks4AKE_PXakoKFvL89b71E&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=680a8928#[🏁]t.me/ConfigsHub
+ss://bm9uZTpjYWJhYWNiLWFiY2EtYWNhYi1kYWNiLWNiY2JhYWNjYWJhYg==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z3pXOGVIWTFiMElVVktBVXhHaUFEUT09@74.48.183.211:27640#👉🆔 @v2ray_configs_pool📡🇺🇸United States
