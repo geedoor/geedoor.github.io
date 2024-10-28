@@ -1377,3 +1377,16 @@ vless://663e8772-7078-4905-a93d-9dbe7428ca55@152.42.148.66:2007?security=none&ty
 trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 trojan://telegram-id-privatevpns@18.170.22.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxODguMTE0Ljk3Ljc5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.131:443?security=tls&sni=ad.ylks.xyz&type=ws&path=%2Fblue#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FiEKjUnufUjeTiIrt%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=argodev11222.pages.dev&fp=randomized&type=ws&sni=ArGodev11222.PaGes.Dev#[🏁]t.me/ConfigsHub
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.210:443?security=tls&sni=ad.ylks.xyz&type=ws&path=%2Fblue#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.237.10.138:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ny43OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICJjaHJvbWUiLCAiaG9zdCI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgImlkIjogImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.88:443?security=tls&sni=dd.ylks.xyz&type=ws&path=%2F%3Fproxyip%3Dproxyip.sg.fxxk.dedyn.io#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@bpb-worker-panel1-e4p.pages.dev:2053?path=%2Ftrn6lSYIYbgvYGra0u%2FZGUucmFkaWNhbGx5LnBybw%3D%3D&security=tls&alpn=http%2F1.1&type=ws&sni=bPB-worker-PANeL1-e4p.paGes.DeV#[🏁]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@217.163.76.203:443?security=tls&sni=ly.ylka.us.kg&type=ws&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@45.67.215.167:443?security=tls&sni=ad.ylks.xyz&type=ws&path=%2Fblue#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.111:8090#[🏁]t.me/ConfigsHub
