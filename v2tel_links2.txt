@@ -3077,3 +3077,4 @@ vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@162.159.192.149:443?path=%2FTelegra
 vless://88ff07e9-51f0-4608-8c5f-ba2fa8a6b18a@210.61.97.241:81/?type=ws&encryption=none&host=sub.putata.eu.org&path=%2F%3Fed%3D2048&security=tls&sni=sub.putata.eu.org&fp=randomized#[🏁]t.me/ConfigsHub
 vless://48690bf6-7e7a-4618-a6b1-882196e91b42@Ser-1.hajalii.com:48362?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/ConfigsHub
 vless://78d61a12-89d8-4e69-9096-36a651c0c5dd@104.17.147.22:2087?security=tls&sni=apkdownload.miracleheartbit.icu&type=httpupgrade&host=apkdownload.miracleheartbit.icu&path=%2F%40v2rayyngvpn%3Fed%3D2048&fp=chrome#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.5.88:443#[🏁]t.me/ConfigsHub
