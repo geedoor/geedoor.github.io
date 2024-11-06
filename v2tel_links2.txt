@@ -2720,3 +2720,13 @@ trojan://telegram-id-privatevpns@18.171.129.56:22222?security=tls&sni=trojan.bur
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.64.232.43:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@165.154.206.81:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@89.185.85.53:2003?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@52.54.240.50:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.79.116.51:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d164a739-da87-449d-addd-3d165c42fbf2@104.26.7.110:443?security=tls&sni=JOiN-ELiV2RaY-JOiN-ELiV2rAY.pagEs.dEv&type=ws&host=join-eliv2ray-join-eliv2ray.pages.dev&path=%2FELENA&fp=qq#[🏁]t.me/ConfigsHub
+trojan://xjN4xcuPGg@144.24.88.133:45101?security=tls&sni=a.522226.xyz&type=tcp&allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.76.77.127:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.126:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.79.116.51:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.76.77.127:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560&fp=chrome#[🏁]t.me/ConfigsHub
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.126:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vmess://eyJhZGQiOiAiNjQuMTc2LjQwLjE4NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWY0MTY4NmItY2I4NS00OTRhLWE1NTQtZWVhYTE1MTRiY2E3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJzY3kiOiAiemVybyIsICJzbmkiOiAiYm9vdGgucG0iLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjVKYXBhbiJ9
