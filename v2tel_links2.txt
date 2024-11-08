@@ -2677,3 +2677,7 @@ vless://0640f1ba-51ed-4418-a1a2-95ded7d26128@104.17.147.22:2082?security=none&ty
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@142.202.48.105:3389#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Pashoberimdige2.net&type=ws#[🏁]t.me/ConfigsHub
 trojan://NISHIKUITAN222@198.41.192.94:443?allowInsecure=0&sni=ik.ylks.xyz&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
+vless://1a677ff1-f998-48bb-8a14-ef2be87ee722@wfxpmyjva5c9.librekit.com:58248?type=ws&path=%2F%40proprojec%3Fed%3D2056&host=&security=none#[🏁]t.me/ConfigsHub
+vless://1a677ff1-f998-48bb-8a14-ef2be87ee722@wfxpmyjva5c9.librekit.com:58248?path=%2F%40proprojec%3Fed%3D2056&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
+vless://1e28e4cf-337b-446b-98ca-7cc804724b84@wfxpmyjva5c9.librekit.com:35617?type=tcp&security=reality&pbk=FNaT8HoGjzDijihFt8VSOSOoAJzH6yYrfz2n-EoFezc&fp=firefox&sni=microsoft.com&sid=&spx=%2F#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.17.177.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
