@@ -3278,3 +3278,10 @@ vless://e92c8608-c238-49a3-8000-0fd65d4e3562@151.101.194.228:443?security=tls&sn
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.168:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.206.113:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.46:2082?type=httpupgrade&host=finhztco.nipytee.info&path=%2F#[🏁]t.me/ConfigsHub
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.162:443?security=tls&sni=BPb005.pAgeS.Dev&type=ws&host=BPb005.pAgeS.Dev&path=%2F81eqvt6gwdd8gwo8%2Fmtuyljy3ljiznc40oq#[🏁]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@173.245.59.84:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=daily-configs.pages.dev&fp=randomized&type=ws&sni=DAiLy-coNfiGS.paGEs.deV#[🏁]t.me/ConfigsHub
+vless://f57a348c-36cd-4d80-a375-d915b5d85e4d@176.57.213.220:443?security=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@109.61.95.21:8080?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@104.17.207.36:443?path=%2FtrDQA9oP0yBecBROvh%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=daily-configs.pages.dev&fp=randomized&type=ws&sni=dAIly-coNfigs.pAGes.dEV#[🏁]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.204.56:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
