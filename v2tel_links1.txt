@@ -2323,3 +2323,5 @@ vless://5f004e7e-9a7d-4718-b2c3-925439d07f3b@live.989bull.com:443?path=CHANNEL--
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@104.17.148.22:8443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=1v2.diginoshops10.ir#[🏁]t.me/ConfigsHub
 vless://b0468731-82f3-4355-89e7-8854f7b1ea8c@order.twixspace.com:443?mode=gun&security=reality&encryption=none&authority=&pbk=kMpNxUml4FpVi20IH1K1JCQnKG49cAp_0Hr9ROzoZFM&fp=firefox&type=grpc&serviceName=&sni=refersion.com&sid=01acca2f70929b7a#[🏁]t.me/ConfigsHub
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#[🏁]t.me/ConfigsHub
+vless://a991e540-124a-405f-b7a5-e6e7713313ef@172.67.216.146:443?security=tls&sni=gzxsf.kovmk.website&type=ws&host=gzxsf.kovmk.website&path=%2F#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@2rayngselllbot.pages.dev:2096?path=%2FL8ojFd77e4Esj8Rr%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=2RAYNGSeLLLbot.pAGES.Dev&fp=randomized&type=ws&sni=2raYNgSELlLboT.pAGES.dEV#[🏁]t.me/ConfigsHub
