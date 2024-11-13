@@ -1178,3 +1178,6 @@ trojan://NISHIKUITAN222@108.162.195.137:443?allowInsecure=1#[🏁]t.me/ConfigsHu
 vless://1ffadc0e-009e-4ad8-99a3-d0d2eb2f9a24@151.101.64.155:80?security=none&type=ws&host=Siperspdservicefree.ir&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#[🏁]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.138.178:2053?path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=Bpb-v.PAges.deV&type=ws&sni=bPB-V.pageS.dEV#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8881#[🏁]t.me/ConfigsHub
+vless://a991e540-124a-405f-b7a5-e6e7713313ef@172.67.216.146:443?security=tls&sni=gzxsf.kovmk.website&type=ws&host=gzxsf.kovmk.website&path=%2F#[🏁]t.me/ConfigsHub
+vless://a55ff7d6-1566-4767-8daa-8fc7459b81ed@a70.bluebana.info:8443?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.64:2096?security=tls&sni=JoiNV2ngfAsT.PAgeS.dev&type=ws&host=joiNv2ngfasT.PAgeS.DEV#[🏁]t.me/ConfigsHub
