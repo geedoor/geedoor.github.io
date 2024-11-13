@@ -1173,3 +1173,8 @@ vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@199.34.228.181:8443?security=tls&sn
 vless://b9584f5f-1348-4d58-bcbe-33c28c886b49@104.17.148.22:8880?security=none&type=ws&host=www.speedtest.net.A.lightning-6.LiVE.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2056#[🏁]t.me/ConfigsHub
 vless://8e56106c-7748-4b9d-b082-b0282810ccd8@80.90.187.199:11319?security=none&type=splithttp&path=%2FMrConfig-MrConfig-MrConfig-MrConfig-MrConfig#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.202:7306#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN222@104.23.136.48:443?allowInsecure=1#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN222@108.162.195.137:443?allowInsecure=1#[🏁]t.me/ConfigsHub
+vless://1ffadc0e-009e-4ad8-99a3-d0d2eb2f9a24@151.101.64.155:80?security=none&type=ws&host=Siperspdservicefree.ir&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D443#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@162.159.138.178:2053?path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&security=tls&alpn=http%2F1.1&encryption=none&host=Bpb-v.PAges.deV&type=ws&sni=bPB-V.pageS.dEV#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8881#[🏁]t.me/ConfigsHub
