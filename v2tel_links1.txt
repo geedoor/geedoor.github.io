@@ -3834,3 +3834,10 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@99.79.135.201:22222?path=/telegram-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.92.104.124:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@13.48.65.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S112)🇸🇪t.me/PrivateVPNs
+vless://15f34214-d8de-41e9-ba72-93daeafc59ef@chatgpt.com:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=subhiddify.mmdv2.host&type=ws&sni=subhiddify.mmdv2.host#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://dns68@visa.cn:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://500fa635-f420-4148-ae10-5b857163d045@91.107.128.128:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.kouok.us.kg&fp=random&type=ws&sni=vl.kouok.us.kg#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@13.39.176.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.231.197:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@31.14.116.12:8000?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.mifeng.us.kg&type=ws&sni=a.mifeng.us.kg#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@77.91.72.197:443?security=tls&headerType=none&type=tcp&sni=customer-77-91-72-197.stark-industries.solutions#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
