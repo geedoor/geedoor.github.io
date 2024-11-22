@@ -1897,3 +1897,15 @@ vless://651d818e-4d5c-4180-a295-1db7a8fabc71@NUFiLTER.fastly80-2.hosting-ip.com:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.0.51:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 vless://88bcc6c7-22ee-4760-9e8a-2453cc6e48a1@www.speedtest.net:80?path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560&security=none&encryption=none&host=join-daily-configs.broken-dreams.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://88bcc6c7-22ee-4760-9e8a-2453cc6e48a1@172.66.47.146:80?path=%2F%40Daily_Cofnigs%2C%40Daily_Cofnigs%2C%40Daily_Cofnigs%3Fed%3D2560&security=none&encryption=none&host=join-daily-configs.broken-dreams.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.93.86:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d0c550b6-8eb0-4bea-86c9-dc5f1efe1fec@104.19.45.10:443?path=%2Fd0c550b6-8eb0-4bea-86c9-dc5f1efe1fec-vless%3Fed%3D2048&security=tls&encryption=none&host=chose-fabulous-psychiatry-fc.trycloudflare.com&type=ws&sni=chose-fabulous-psychiatry-fc.trycloudflare.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://571f64c7-bff0-4d33-8765-56ad2334cb55@172.67.27.46:443?path=%2Fascb&security=tls&encryption=none&host=ca.ailicf.us.kg&type=ws&sni=ca.ailicf.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@23.157.40.87:3306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.98.252:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@23.157.40.87:5499#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@3.147.190.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@13.37.39.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-pl-1.brocdn.com&type=ws&sni=st-pl-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=%2F6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
