@@ -2875,3 +2875,11 @@ vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?securit
 trojan://telegram-id-directvpn@3.139.196.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://553d1455-213b-4488-9e35-5ef01ac73342@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc2.ir&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.26:8119#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:21005?allowInsecure=0&sni=alibabashop.com#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vless://a71ded4e-44cb-441e-a232-cb859f9e6ca3@151.101.192.155:80?security=none&type=ws&host=SPDNET.servip2.ir&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vmess://eyJhZGQiOiAiMTcyLjI0NS42OC4yMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiMjAyMjU4NWEtODZhNy00MjMxLWIzYTAtZWVkYTE0Zjc3ZjRkLjhmMTgyMzdjLThlNWYtNGZmYi1hNDM0LTFiMjk0OGM4N2JlMy5kZG5zZnJlZS5jb20iLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9vYmRpaS5jZmQ6NDQzL2xpbmt3cyIsICJwb3J0IjogMTc1MjQsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+vless://3aa78f08-e345-4d83-bda0-f34eebc5fcc8@95.164.117.40:22161?type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI=@205.134.180.150:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
