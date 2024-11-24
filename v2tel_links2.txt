@@ -2872,3 +2872,6 @@ vmess://eyJhZGQiOiAiMTA0LjIxLjc0LjIzOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6
 vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@34.217.226.207:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.188.171.233:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?security=reality&encryption=none&pbk=YAmYWNKMauwmkR50BntCkIs6Oi0TOfQkEXG4_p-5oVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@3.139.196.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://553d1455-213b-4488-9e35-5ef01ac73342@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc2.ir&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@15.188.216.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
