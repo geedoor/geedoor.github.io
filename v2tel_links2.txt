@@ -3364,3 +3364,8 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.203:8888#👉🆔 @v2ray_confi
 vless://c62ddd16-c244-42ec-9d88-e1aaca661ad6@151.101.64.155:80?security=none&type=ws&host=SPDNET.servip2.ir&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.191:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@104.20.21.20:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@13.50.197.145:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://553d1455-213b-4488-9e35-5ef01ac73342@151.101.3.8:80?security=&type=ws&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed%3D2048&host=barkatc2.ir&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89e28408-99e9-4348-af10-14071e616b15@185.227.111.41:21155?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://9f70018f-a963-4cc0-a98c-7992683312a5@datasets.new:443?path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vu.ir&fp=firefox&type=ws&sni=datasets.new#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@13.42.245.236:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
