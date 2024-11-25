@@ -3352,3 +3352,8 @@ trojan://telegram-id-privatevpns@15.188.96.38:22222?security=tls&alpn=http/1.1&h
 vless://4cdb1c79-c6fa-4068-9e3b-f64748432205@104.21.26.222:443?security=tls&sni=95948856080148125256718271875881.v2line.net&type=ws&host=95948856080148125256718271875881.v2line.net&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&fp=randomized&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vmess://eyJhZGQiOiAiMzguNzUuMTM2LjczIiwgImFpZCI6IDAsICJob3N0IjogIjM4Ljc1LjEzNi43MyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-privatevpns@52.30.54.77:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://243ff879-b317-4430-894e-767a131db2ca@104.19.198.103:80?security=none&type=ws&host=tr1-vless.ctunnel.xyz&path=%2Fvless#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.124.187:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.33:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
