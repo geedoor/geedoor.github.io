@@ -4500,3 +4500,13 @@ vless://de44b044-8f90-4e18-b742-16591667ff96@202.60.191.6:17922?path=%2F%3Fed%3D
 vless://50076728-e056-4322-ad64-8dea6b19b17a@190.93.247.56:8080?security=&type=ws&path=/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed%3D2560&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 vless://telegram-id-ArV2ray@151.101.64.155:80?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D80&security=none&encryption=none&host=Fer40sowk.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ%3D@23.157.40.120:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#👉🆔 @v2ray_configs_pool📡🇨🇾Cyprus
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.166.88.198:5003#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+trojan://telegram-id-privatevpns@54.246.87.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.55:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@62.12.116.66:990#👉🆔 @v2ray_configs_pool📡🇰🇪Kenya
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@15.204.87.225:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnbVlEelNHNkszNXM4YjE5b1k0Zkd6@92.118.112.111:18622#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.101:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
