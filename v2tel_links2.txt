@@ -1151,3 +1151,7 @@ vless://SAVTEAM14@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40Sa
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?path=%2FygOspaD3CyMmYSg8%2FMTQ4LjI1MS4xMTAuMTc2%3Fed%3D2560&security=none&encryption=none&host=cxrolvpn.cxrolvpn8767.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://846b5c1f-53c4-49d3-ade1-79694113f342@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.135.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://d7faef3c-a336-4aec-abe8-10660d75eb00@www.speedtest.net:2052?path=%2Fed%3Fed%3D1048&security=none&encryption=none&host=pornhub.free4all.com.de&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@34.250.180.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+vless://3e2c2cb9-83b3-4b8c-91d5-73015490df0d@configtell2.fastly80-2.hosting-ip.com:80?path=%2FConfigTell%2CConfigTell%2CConfigTell%3Fed%3D2560&security=none&encryption=none&host=www.Yjc.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
