@@ -933,3 +933,10 @@ trojan://telegram-id-privatevpns@54.246.87.101:22222?security=tls&sni=trojan.bur
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bnR4cUhoUElOWHU1QWc2ODc2ZlhP@51.195.220.179:1080#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-privatevpns@54.246.87.101:22222?security=tls&alpn=http%2F1.1&headerType=&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
+ss://YWVzLTI1Ni1nY206THROWWY1allzbDZnb0RrY0VLYWRlNFBGcTUvZGR0UERiVnA3WEg3WWtIVT0@62.76.234.81:13506#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@192.0.54.172:443?encryption=none&security=tls&sni=dx.ylks.xyz&type=ws&path=%2FProxyIP%3DProxyIP.US.fxxk.dedyn.io#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://9f2b1194-faeb-4f20-8eb0-8456cc5c3286@103.136.68.11:443?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=v9inmuM5DSaxqKRjqyL0MbIIYxJFpn4bTnOQWiAym1E&sid=7af4ba2e#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.67:443?encryption=none&security=tls&sni=sb-1u6.pageS.Dev&type=ws&path=%2Fo56edk55jth9andd%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a35367d5-0edb-4882-b8b5-0249b820e114@213.252.232.175:2096?security=reality&sni=apple.com&type=tcp&fp=random&pbk=PbUniy2w23tAs97ciXVClmXXRXtV1lb69dS-J9SFbAc&sid=7c88bf8e#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjE3Ni4zMi4zMy4xNTgiLCAicG9ydCI6ICI4MDgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0OGZmNTY4MC1mYjgzLTRkNzQtYTk5NS0wMWZhYmQzNTZmNmEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZmFSdXNzaWEifQ==
+vless://a38fbcf4-edb4-4b2b-88dd-5c357c2af4ff@89.221.225.159:2053?security=reality&sni=apple.com&type=tcp&fp=chrome&pbk=Am1Y8Hfk9DWE9SEticU93yF2G2PcC8bmgKpq_V5NuiI&sid=e8ebda2f23f6#👉🆔 @v2ray_configs_pool📡🇮🇱Israel
