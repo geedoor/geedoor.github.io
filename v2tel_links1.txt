@@ -695,3 +695,13 @@ vless://498afaa9-265e-4be6-ae98-aa69dc6ef99c@srv1.gamekade.tech:2053?type=tcp&pa
 trojan://telegram-id-directvpn@52.212.45.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ%3D%3D@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl117.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@18.175.22.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.252.14.20:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+trojan://telegram-id-privatevpns@18.134.106.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-directvpn@54.78.33.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://338c7415-edfb-4d96-c0d7-74efd7ced808@190.93.244.61:443?security=tls&sni=seargo.100896.xyz&type=ws&host=seargo.100896.xyz&path=%2Fshare77769iai#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+trojan://telegram-id-privatevpns@54.154.77.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@54.229.97.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.28.87:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
