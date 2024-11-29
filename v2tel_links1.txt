@@ -652,3 +652,12 @@ vless://ffce9d6b-0019-4fe0-ae15-28dd750455cd@104.21.69.44:8880?security=none&typ
 trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@13.114.186.177:20230?sni=421421.xyz#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@172.67.137.11:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&serviceName=&sni=Tp050KvBgB.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://31a27ed1-2ec6-4ab5-95b6-3e213e59e0a9@160.153.0.183:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Tp0500PzH8.eHsAnDnS10.iR&fp=chrome&type=ws&sni=Tp0500PzH8.eHsAnDnS10.iR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://c97861ff-0b79-44df-9019-6f8b5dd796ee@185.119.240.34:4009?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.0.136:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+trojan://telegram-id-privatevpns@51.20.200.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@16.170.150.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.39.35:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.6.219:443?path=%2FH%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mefa.ir&fp=randomized&type=ws&sni=mefa.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
