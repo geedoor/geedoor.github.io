@@ -793,3 +793,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:
 trojan://blue2024@172.67.79.211:443?sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU%3D@35.88.136.187:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@3.19.210.219:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@13.51.105.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.170.22.90:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443?path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=metrix.ir&fp=randomized&type=ws&sni=metrix.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://38b5b950-1999-4df5-ad45-96bafae50c53@193.107.48.76:45665?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://telegram-id-privatevpns@16.171.79.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+vmess://eyJhZGQiOiAiMTkzLjEwOC4xMTkuMTEyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzODBlYjVhZS1hNjA5LTQ4Y2EtOTNiMy05ZDg1NjQ3MTRjOWMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjEyMjgxIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhR2VybWFueSJ9
+vless://b6067899-8c64-4e83-8ec9-b0abeef1596f@45.91.193.247:8495?security=reality&encryption=none&pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&fp=chrome&type=http&sni=icloud.com&sid=acbc173b1eef54b5#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=api.nhl38.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
