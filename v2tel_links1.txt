@@ -937,3 +937,10 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.100:443#👉🆔 @v2ray_conf
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T0FHTEQrRE9BNlVjRnA1VWRmMHIvVXp5andIVit5aGVOa29GRGs2dUw4PQ@213.108.22.109:38753#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
 trojan://telegram-id-privatevpns@18.171.43.60:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGEzNTk5YS00MWEzLTQwNjItOGVkOC0wMjcwZWE4ZGJlMmE@jsxzcm.concubine.top:45933#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vless://e1cf1cbc-a1b0-4db8-86b0-45dd2e8a68da@104.21.80.12:443?path=%2F&security=tls&encryption=none&host=easynet23.gosomok252.workers.dev&fp=chrome&type=ws&sni=easynet23.gosomok252.workers.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SAVTEAM14@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVmR2eXR0TDROWUw5dkNIV1hCdWJu@51.13.112.240:48921#👉🆔 @v2ray_configs_pool📡🇳🇴Norway
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.47:3389#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@158.180.231.216:443?security=tls&sni=BPb-4jH.PaGEs.dev&type=ws&host=bpb-4jH.PaGeS.DEV&path=%2FaIa8EGozH9v6A091%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+vless://SAVTEAM14@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.io&fp=chrome&type=ws&sni=live.989bull.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
