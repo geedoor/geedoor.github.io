@@ -2469,3 +2469,5 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#👉🆔 @v2ray_co
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://d244009a-9ceb-4f76-b52c-4da3e416ebe2@5.59.249.86:2052?security=none&type=tcp&host=www.bmw.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.3:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.164.164:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
