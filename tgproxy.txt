@@ -1,10 +1,1 @@
-https://t.me/proxy?server=me.shadowfiend.uk&port=310&secret=3RYDAQIAAQAB_AMDhuJMOt0
-https://t.me/proxy?server=me.shadowfiend.uk&port=710&secret=ee02323389007001000020009000080000726179616e6573686768652e636f6d
-https://t.me/proxy?server=mahe.chersimotolos.info&port=443&secret=1603010200010001fc030386e24c3add&operation=hamrah
-https://t.me/proxy?server=157.90.22.27&port=443&secret=5mB7kIicxgcZ0hcMsoUZYgAAAAAAAAAAAAAAAAAAAAkIicxgcZ0hcMsAAAA0hcMsAAAA
-https://t.me/proxy?server=103.161.34.17&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=103.161.34.13&port=997&secret=eeRighJJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=77.232.43.215&port=8443&secret=7gAA8A8Pd__1VV______9QB2LmNwLS0tLS0%3D
-https://t.me/proxy?server=77.232.43.215&port=8443&secret=7gAA8A8Pd__1VV______9QB2LmNwLS0tLS0%3D
-https://t.me/proxy?server=108.181.121.220&port=443&secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.voriaz-boriaz.info.&port=4550&secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
