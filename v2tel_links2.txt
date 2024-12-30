@@ -1309,3 +1309,20 @@ vless://b0fbf219-1475-4a72-ae5d-c96680d11f28@hajlab.ucdavis.edu:443?security=tls
 vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?path=%2Fws&security=none&encryption=none&host=scp-only.ws.com&type=ws#[🇺🇸]t.me/ConfigsHub
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@171.22.117.49:2198?security=none&encryption=none&headerType=none&type=tcp#[🇳🇱]t.me/ConfigsHub
 vless://50dcb59d-fc2c-4dd2-a34a-3eec2918eb47@18.192.93.64:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sa.bgm2024.us.kg&type=ws&sni=sa.bgm2024.us.kg#[🇩🇪]t.me/ConfigsHub
+trojan://1a668915-d98f-4440-8bac-2c51d508f811@1.170.227.135:30337?security=tls&sni=ddns.200566.xyz&type=tcp&fp=random#⚜️Telegram:@IP_CF
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&host=google.com&path=%2Fhttp#[🇩🇪]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206aGFNTE1YaXJCeW42ckdWaA==@163.177.58.140:13137#⚜️Telegram:@IP_CF
+vless://bd43999d-6b1f-442c-b7b3-b9c8dbc1531c@s14.fastly80-2.hosting-ip.com:80?path=%2FTELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@52.213.16.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S109)🇨🇮t.me/PrivateVPNs
+vless://SAVTEAM10@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam----%40SavTeam%3Fed%3D443&security=tls&alpn=http%2F1.1&encryption=none&host=Savteam.CI&fp=chrome&type=ws&sni=live.989bull.com#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#[🇬🇧]t.me/ConfigsHub
+vless://bd43999d-6b1f-442c-b7b3-b9c8dbc1531c@mmd.fast.hosting-ip.com:80?path=%2FTELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM---TELEGRAM-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://2f1cc1d7-dfbe-46b1-8bec-ed1cd4fd57ea@93.126.50.231:51234?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@18.181.152.92:443#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#[🇦🇪]t.me/ConfigsHub
+vless://35320a12-0452-4d83-aa0f-de2dbbe1beca@spd.fastly80-3.hosting-ip.com:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=PINF.spdnet.ir.&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.216.40.70:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://84076377-b785-486d-9ddc-55ce1fb6fd91@zmaoz.faculty.ucdavis.edu:443?path=%2Folem%2Fws%3Fed%3D4096&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fonmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#[🇳🇱]t.me/ConfigsHub
+trojan://NISHIKUITAN111@104.24.70.239:443?#⚜️Telegram:@IP_CF
+trojan://telegram-id-privatevpns@3.248.98.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇨🇮t.me/PrivateVPNs
