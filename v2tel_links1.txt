@@ -2235,3 +2235,14 @@ trojan://blue2024@104.17.165.253:443?security=tls&sni=ta.promote.icu&type=ws&hos
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.221.197:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.16.242.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#⚜️Telegram:@IP_CF
+vless://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&type=tcp#[🇫🇮]t.me/ConfigsHub
+trojan://NISHIKUITAN111@141.101.122.9:443?#⚜️Telegram:@IP_CF
+trojan://NISHIKUITAN111@104.17.120.144:443?#⚜️Telegram:@IP_CF
+trojan://3723507166611775488@18.180.140.208:443?security=tls&sni=fleet-weevil.boa152.lol&type=tcp#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.18:9038#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.74.156.220:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇮🇪]t.me/ConfigsHub
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@169.150.210.233:8080#[🇩🇪]t.me/ConfigsHub
+vless://tell--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=setadiran.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.221.197:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🇬🇧]t.me/ConfigsHub
+trojan://NISHIKUITAN111@198.41.217.62:443?#⚜️Telegram:@IP_CF

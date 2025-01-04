@@ -3919,3 +3919,12 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#[🇬🇧]t.me/Conf
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.16:8118#[🇺🇸]t.me/ConfigsHub
 vless://fc640950-1dc2-48c8-bb75-800cbf3fb627@v3.vixsm.ir:443?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#⚜️Telegram:@IP_CF
+vless://99812477-68d7-4f5a-9029-85282aa577c2@5.8.93.67:8584?security=reality&encryption=none&pbk=nc1QaAolUCZYR9HLTm1zD7Q0UmrL3ac9IF_IOPnxnEQ&host=soft98.ir&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=mni.vip-morteza.xyz&sid=80bc56#[🇺🇸]t.me/ConfigsHub
+trojan://3723507166611775488@18.180.140.208:443?security=tls&sni=fleet-weevil.boa152.lol&type=tcp#⚜️Telegram:@IP_CF
+trojan://NISHIKUITAN111@198.41.217.62:443?#⚜️Telegram:@IP_CF
+trojan://3723507166611775488@94.237.65.26:443?security=tls&sni=profound-shiner.boa152.lol&type=tcp#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN111@141.101.122.9:443?#⚜️Telegram:@IP_CF
+vless://04fa85e4-6466-4d3e-bcff-936151adc449@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+trojan://blue2024@104.18.43.220:443?security=tls&sni=ta.promote.icu&type=ws&host=ta.promote.icu&path=%2F%3Fed%3D2560#⚜️Telegram:@IP_CF
+vless://ebeb6822-1e9f-4a3d-b0b6-81b8f53331d8@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+vmess://eyJhZGQiOiIyLjE4OS41OS43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
