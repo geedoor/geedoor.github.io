@@ -1450,3 +1450,18 @@ trojan://telegram-id-directvpn@13.50.219.157:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@52.47.81.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-privatevpns@34.248.34.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.250.41.40:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.1:80?security=none&type=ws&host=edge.validbv3528.ir#[🇺🇸]t.me/ConfigsHub
+vless://f1b0e50d-bb67-46f5-b6a5-7809e116374a@login.fastgozar.xyz:15223?security=reality&encryption=none&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google-analytics.com#[🇩🇪]t.me/ConfigsHub
+vless://Biain--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=ndmo.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🇳🇱]t.me/ConfigsHub
+trojan://3723507166611775488@major-reindeer.boa152.lol:443?allowInsecure=0&sni=major-reindeer.boa152.lol#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989#⚜️Telegram:@IP_CF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@13.41.238.248:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiIxMDMuMTA2LjIyOS4yOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNDE0MWEyYy1jYTMzLTQyMzctYWRkMC0yMjBhMjA0ZTRhYzMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3dhZGExMjIyMiIsInBvcnQiOiI0NzkyOCIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://4e3cc10a-d021-4db1-8904-fffd5bee2cd8@buy.onlymelica.xyz:58925?security=reality&encryption=none&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google-analytics.com#[🇫🇷]t.me/ConfigsHub
+vless://TELEGRAM-ServerNett@[2a01:4f8:c010:45f6::1]:15486?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram:@IP_CF
+vless://f5165ef0-d580-4b9e-a67e-b52ce3ec5fb4@188.245.231.16:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=androidcentral.com&fp=randomized&pbk=-rDCePGiiXVVJRaqdrxMpHEaS6BLW5MThq8Dx3MD-xw&sid=6a06b0e6&spx=%2F&@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&type=tcp&headerType=none#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.197.222.176:22222?allowInsecure=0&sni=trojan.burgerip.co.ukhttp/1.1#[🇩🇪]t.me/ConfigsHub
+vless://8e761d8d-7552-4787-a8be-77c2f37864fe@151.101.0.150:80?security=none&type=ws&host=edu.tabligh.au&path=%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Z01yQWlYYlh0bDJqcFZpU3p6OGFF@44.204.229.155:18578/?POST%20#⚜️Telegram:@IP_CF
+trojan://5586eb05-1e5c-4b27-a276-86311547b95e@waphk.mjt000.com:443?allowInsecure=0&sni=waphk.mjt000.com#[🏁]t.me/ConfigsHub
