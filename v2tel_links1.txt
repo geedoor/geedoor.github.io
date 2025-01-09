@@ -1417,3 +1417,26 @@ trojan://telegram-id-privatevpns@54.216.50.235:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-directvpn@3.126.112.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@18.169.110.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://Channel-VPNCUSTOMIZE@fishlab.ucdavis.edu:443?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=tls&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#[🇺🇸]t.me/ConfigsHub
+vless://tell--ZEDMODEON@141.227.132.158:10056?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.181.213.216:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.208.246.236:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://telegram-id-directvpn@63.177.123.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://4d8426b2-0af1-4eb5-a231-b62152d7b9b9@cloud.xmsvx.com:443?path=%2FTorVipxyy%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=aft.vc&fp=chrome&type=ws&sni=live.989bull.com#[🇳🇱]t.me/ConfigsHub
+vless://7de0385b-8c3b-46fd-8574-1db0c061eb9a@91.134.100.48:55235?mode=gun&security=reality&encryption=none&pbk=P-dMTeNvUezXYK97e_5bCXKNOZfbTDjQepoTbRFzuDw&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=29b94609#[🇫🇷]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxNDIuMC4xMzQuMjQ0IiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ1MDE3IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://4fe2025a-29f1-5c7e-ac64-c9b777de11e6@speedtest.net:80?path=%2Fvless%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=&encryption=none&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.caw2.baldh.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.185.168.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://d77906a1-59fd-4222-ba9e-3de834bb33e2@172.67.181.89:443?security=tls&sni=vpn442telegram.wucwej.workers.Dev&type=ws&host=vpn442telegram.wucwej.workers.Dev&path=%2F#[🇨🇦]t.me/ConfigsHub
+vless://tell--ZEDMODEON@152.228.228.251:25477?mode=gun&security=reality&encryption=none&pbk=ZmcY-RdV4tJ-IeECUn4LFJv6iIPYp--B71k-bGIbC3Y&fp=chrome&spx=%2F&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=check-host.net&sid=33c3e84e#[🇫🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.78.147.253:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.74:28304#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#⚜️Telegram:@IP_CF
+vless://82003148-1939-464d-9b27-bf7f1906e2fc@a307.im-mrserver61.top:90?type=ws&path=/&security=none#[🇮🇷]t.me/ConfigsHub
+vless://95089f63-c732-4594-bfcb-c8180bd09a1c@5h1.golabkashaniz.info:443?path=%2F&security=&encryption=none&host=5h1.golabkashaniz.info&type=ws#⚜️Telegram:@IP_CF
+vless://b2705a86-7b78-4f59-9205-3a16062b8018@37.27.243.40:45908?security=tls&sni=tunnel-pro.yoooka.lol&type=tcp&host=m-net.speedtestcustom.com&headerType=http&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🇫🇮]t.me/ConfigsHub
+vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@18.118.26.41:1212?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=stackoverflow.com&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&spx=#⚜️Telegram:@IP_CF
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#[🇺🇸]t.me/ConfigsHub
+vless://36238374-9522-4d8c-c355-ecb503387ddc@151.101.2.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu.&type=ws&host=fonmelo.com&path=%2Folem%2Fws%3Fed%3D4096&fp=edge&alpn=http%2F1.1#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377#⚜️Telegram:@IP_CF
+vless://1051bfbb-90db-4261-b5e4-8b91f62b436f@156.67.30.77:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=SDUAmbkyV3wQEEXwV9wpwTqS2qi7gOekiZNpS1jfcXc&headerType=none&fp=chrome&spx=%2F%40MARAMBASHI&type=tcp&flow=xtls-rprx-vision&sni=spotify.com&sid=d59cd3#[🇩🇪]t.me/ConfigsHub
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.0.0:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=none&encryption=none&host=edge.validbv3528.ir&type=ws#[🇺🇸]t.me/ConfigsHub
