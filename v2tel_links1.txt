@@ -12551,3 +12551,53 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.81:443#👉🆔 @MoftConfig�
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.162:443#👉🆔 @MoftConfig📡🇨🇭Switzerland
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.140:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/&fp=chrome#[🇨🇦]t.me/MoftConfig
 
+vless://ece26ca7-1552-4158-806d-a04de25dc4c3@46.226.166.246:443?security=none&type=grpc#👉🆔 @MoftConfig📡🇫🇷France
+trojan://VEpHxtlooqBER0xvRb0xOw@65.109.209.201:6176?security=tls&type=tcp&headerType=none#⚜️Telegram:@IP_CF
+vless://2737560d-1867-47fa-aa80-351c36d771c7@172.67.44.149:2052?security=none&type=ws&host=0118.kznyoum2.workers.dev&path=%2F%3Fed%3D2560#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://jnaO0CFYpYExOygqlESRplzewIaKSFpBaqXy3YX4xBC8KK9ja94Y4S8aS7zjq96XSxO7CDu5BCYFCZg@154.17.13.71:443?sni=lnitak.starspace.link#👉🆔 @MoftConfig📡🇺🇸United States
+ss://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=%2FTelegram%40V2ray_Alpha&security=none&encryption=none&host=photographipictureai.ir&type=ws#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo=@107.181.151.147:43669#👉🆔 @MoftConfig📡🇱🇹Lithuania
+ss://8a52d270-ed78-4f73-99fb-83d6e9c953a1@GRN.IPCL0UD.COM:443?security=none&encryption=none&host=p30afzar.com&headerType=http&type=tcp#👉🆔 @MoftConfig📡🇮🇷Iran
+vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@3.137.159.67:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#👉🆔 @MoftConfig📡🇺🇸United States
+vless://acbaacb-caba-aacb-dacb-cbbabcacaacb@127.0.0.1:2080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:8888#👉🆔 @MoftConfig📡🇺🇸United States
+ss://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram-mtmvpn%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://acbaacb-caba-aacb-dacb-cbbabcacaacb@127.0.0.1:2080?security=tls&type=tcp#👉🆔 @MoftConfig📡🤷‍♀️🤷‍♂️
+vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.13.140:8443?security=tls&sni=5-55sfjslf.ifenxiang.cfd&type=ws&host=5-55sfjslf.ifenxiang.cfd&path=/&fp=chrome#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.98.5:443?security=tls&sni=147135010072.sec21org.com&type=tcp#👉🆔 @MoftConfig📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@156.238.18.165:2052?path=%2FTM-ShadowProxy66%3Fed%3D2048&security=none&encryption=none&host=redw.pooriam.ir&type=ws#👉🆔 @MoftConfig📡🇯🇵Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#👉🆔 @MoftConfig📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @MoftConfig📡🇬🇧United Kingdom
+vless://199bc947-1668-4937-85c1-e622022f986b@www.speedtest.net:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.lightning6.ip-ddns.com.&type=ws#👉🆔 @MoftConfig📡🇨🇦Canada
+trojan://8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp@18.142.45.201:443?sni=mention.protocolbuffer.com#[🏁]t.me/ConfigsHub
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.14.85:80?type=ws&host=redfrEe8w.Pooriam.ir&path=%2Fvpnowl%3Fed%3D2560#[🇨🇦]t.me/MoftConfig
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@alistermalcolm.com:443?path=%2Fproxyip%3D5.180.30.112&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#[🇨🇦]t.me/ConfigsHub
+trojan://8cwxYqlSeC4Xw8KOApT3SxCIX69eZ7zBNZDE0Dap3y9AZTFBFlD5a2euA7A3YzR2DpSyI@bedsheet.homeofbrave.net:443?allowInsecure=1&sni=bedsheet.homeofbrave.net#👉🆔 @MoftConfig📡🇺🇸United States
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@careers.pypl.com:443?path=%2Fproxyip%3D37.1.195.124&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#[🇨🇦]t.me/ConfigsHub
+vless://8ee10c6b-4fdb-4a64-b6d6-503d7d675699@sin5.vpntype.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#👉🆔 @MoftConfig📡🇸🇬Singapore
+vless://22b24a2f-b6c8-47b0-a959-48ecddab64d6@91.134.49.44:10885?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇫🇷]t.me/MoftConfig
+trojan://7Rn3apKRaY3ceZYDn3DlKSBNT0aEC08y6zADl84FI9waq8CF2yxO2X9u8jegx5uAODjcE@52.78.39.86:443?sni=bapus.koreanbbq.link#👉🆔 @MoftConfig📡🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MjBjNWI1MTA4MTIwYTcy@23.162.56.206:11201#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://22b24a2f-b6c8-47b0-a959-48ecddab64d6@91.134.49.44:10885?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#👉🆔 @MoftConfig📡🇫🇷France
+vless://22b24a2f-b6c8-47b0-a959-48ecddab64d6@91.134.49.44:10885?security=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#[🇫🇷]t.me/ConfigsHub
+vless://701a7842-79a2-4a48-882b-c563daad99c1@104.17.148.22:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://701a7842-79a2-4a48-882b-c563daad99c1@104.17.148.22:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/MoftConfig
+trojan://7Rn3apKRaY3ceZYDn3DlKSBNT0aEC08y6zADl84FI9waq8CF2yxO2X9u8jegx5uAODjcE@52.78.39.86:443?sni=bapus.koreanbbq.link#[🏁]t.me/MoftConfig
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.14.85:80?type=ws&host=redfrEe8w.Pooriam.ir&path=%2Fvpnowl%3Fed%3D2560#[🇨🇦]t.me/ConfigsHub
+vless://701a7842-79a2-4a48-882b-c563daad99c1@104.17.148.22:2096?security=tls&sni=behesht.mhxpd.ir&type=ws&host=behesht.mhxpd.ir&path=%2F%3Fed%3D1024&fp=chrome&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.93.47:5000#👉🆔 @MoftConfig📡🇺🇸United States
+trojan://SECCzF5l3xeFN6z76DyuKZ83wTS4gBClpOARp83glBnqXjaI78nZp2eReSXxCY9SlDDFa@spirit.koreanbbq.link:443?allowInsecure=1&sni=spirit.koreanbbq.link#👉🆔 @MoftConfig📡🇰🇷South Korea
+trojan://8jqRgpyc5lEe34TzC9A8DuFD23aS3ZyCleIFuCxp3xOYnZRCeA3Oc3yCga8C2DKYBDaRp@18.142.45.201:443?sni=mention.protocolbuffer.com#[🏁]t.me/MoftConfig
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.195.56:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@194.41.59.80:8388#👉🆔 @MoftConfig📡🇮🇹Italy
+trojan://FeCOjFDq3aXx8BD39R2O4zxSxNDY3R4zl3x6K2SZaZY3ElTRaO5EeR08yNnSI0Zew9lyC@mailbox.meijireform.com:443?allowInsecure=1#👉🆔 @MoftConfig📡🇯🇵Japan
+vless://4cfed9ee-71db-429b-b18d-f9f3dbd11bad@162.159.195.56:443?security=tls&sni=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&type=ws&host=white-fire-62c1.66500-280b-471c-b2b8-d68b7f9960013.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#[🇨🇦]t.me/MoftConfig
+trojan://7Rn3apKRaY3ceZYDn3DlKSBNT0aEC08y6zADl84FI9waq8CF2yxO2X9u8jegx5uAODjcE@52.78.39.86:443?sni=bapus.koreanbbq.link#[🏁]t.me/ConfigsHub
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@careers.pypl.com:443?path=%2Fproxyip%3D37.1.195.124&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#[🇨🇦]t.me/MoftConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@93.115.10.213:40019#👉🆔 @MoftConfig📡🇹🇷Turkey
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@alistermalcolm.com:443?path=%2Fproxyip%3D5.180.30.112&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#[🇨🇦]t.me/MoftConfig
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#👉🆔 @MoftConfig📡🇺🇸United States
+vless://6d91bc33-2d86-4839-9205-02024ff483c7@careers.pypl.com:443?path=%2Fproxyip%3D37.1.195.124&security=tls&alpn=http%2F1.1&encryption=none&host=wtestfrtt.requesttest.cloudns.org&fp=random&type=ws&sni=wtestfrtt.requesttest.cloudns.org#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?path=%2Fmtmvpn-Channel+%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=photographipictureai.ir&fp=randomized&type=ws&sni=pHOTOgrApHipiCTureaI.IR#👉🆔 @MoftConfig📡🇨🇦Canada
+vless://849f1c68-cb93-4563-aa09-a8b6a02a56be@hajlab.ucdavis.edu:80?type=ws&path=%2F@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy%3Fed%3D2048&host=joinxvproxybedee.ir&security=none#👉🆔 @MoftConfig📡🇨🇦Canada
