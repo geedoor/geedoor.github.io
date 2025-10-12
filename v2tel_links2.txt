@@ -48101,3 +48101,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.108.9:22224?type=ws&security
 trojan://telegram-id-privatevpns@35.157.108.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?security=&sni=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&path=/vpn?ed%3D2560&host=barayeiran.mahiozonboroon.qzz.io&encryption=none#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@35.157.108.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@kz01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/#[🏁]t.me/ConfigsHub
+vless://8938eb29-feec-4064-97a9-9a3f7bf8d494@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.224.187:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@63.179.224.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.200:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.163.204.94:990#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#[🏁]t.me/ConfigsHub
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?flow=&type=ws&host=&path=/?ed&security=tls&sni=azadnet3-9do.pages.dev&fp=chrome&allowInsecure=0#[🇺🇸]t.me/ConfigsHub
