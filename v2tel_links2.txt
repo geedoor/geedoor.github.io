@@ -48580,3 +48580,10 @@ vless://6d2e2298-7bef-476f-b06d-6062980d75db@45.15.127.196:443?security=reality&
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjguMjExLjE2NC4yMTUiLCJwb3J0IjoyMDUyMiwiaWQiOiI3MzE5M2NjZS03Y2ExLTRiMDgtOTNmZi00ZWU4YjAxNDczNzQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiJcL3RlbGVncmFtX0Bzc3dpYSIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@usa.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@52.77.236.51:443#[🏁]t.me/ConfigsHub
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#⚜️Telegram:@IP_CF
+vmess://ewogICJhZGQiOiAiOTEuOTIuNDAuNzgiLAogICJhaWQiOiAwLAogICJpZCI6ICI2MGY0ZGMxOC1iNmViLTQxZTgtYTE3Ny0xYjY0ZTdiNmRkOWQiLAogICJuZXQiOiAidGNwIiwKICAicG9ydCI6IDIwNjAsCiAgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwKICAidGxzIjogIm5vbmUiLAogICJ2IjogMgp9
+trojan://telegram-id-directvpn@13.60.135.225:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#⚜️Telegram:@IP_CF
+vless://20a91d5e-0005-4b3f-9e2a-1b96934f8a88@pscresearch.faculty.ucdavis.edu:80?type=xhttp&encryption=none&path=%2F&host=xiliunlimited.global.ssl.fastly.net&mode=auto&security=none#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#[🏁]t.me/ConfigsHub
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?security=tls&encryption=none&type=ws&sni=azadnet3-9do.pages.dev#[🏁]t.me/ConfigsHub
