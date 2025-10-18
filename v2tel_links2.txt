@@ -48877,3 +48877,14 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.172.113:22224?type=ws&securi
 trojan://telegram-id-directvpn@15.188.172.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.142.55:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.172:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://064656ac-0239-4868-8c3e-60d9bb0a180d@162.55.188.238:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=162.55.188.238&type=ws#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.179.194.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.33:5001#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.110.1.203:9101#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080#[🏁]t.me/ConfigsHub
+vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smart.confappha.com&type=ws&sni=smart.confappha.com#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.194.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://bd5c4f55-961c-4989-a1e4-b2ed3ee4c34b@155.254.35.149:5037?mode=gun&security=&encryption=none&type=grpc&serviceName=t.me/entryNETPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----EVAY_VPN----#[🏁]t.me/ConfigsHub
+vless://e5c2e234-333e-48b4-8199-2793a64527bc@77.238.237.179:443?security=tls&encryption=none&host=s1-c3r.pages.dev&fp=chrome&type=ws&sni=s1-c3r.pages.dev#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@63.179.194.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjogIjIiLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAiYWRkIjogIjEwNC4yMS4zNi43NiIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJsYW1tYWxhbmQub3JnIiwgInRscyI6ICJ0bHMifQ==
