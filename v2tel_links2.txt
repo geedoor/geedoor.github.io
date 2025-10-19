@@ -48966,3 +48966,11 @@ trojan://bpb-trojan@172.66.44.156:2053?security=tls&type=ws&sni=bPB-worker-PANeL
 trojan://telegram-id-privatevpns@13.37.162.182:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
 trojan://aa81d044-0e0a-5b01-a6d7-3981ed218497@www.speedtest.net:2095?security=none&type=ws&path=/&host=at1.vless.Sitespeedtest.net.#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@139.64.165.230:2376#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.71.198.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://7771233d-f409-407d-a4b1-535433fa74d7@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.71.198.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&path=%2f#⚜️Telegram:@IP_CF
+vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443/?type=ws&encryption=none&flow=&host=v2ray.codefyinc.com&path=%2Fvlessws&security=tls&sni=v2ray.codefyinc.com&fp=chrome#⚜️Telegram:@IP_CF
+trojan://2c5f18f9-b065-41fc-b0a4-a14a25540236@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FAE7&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.71.198.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@3.71.198.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
