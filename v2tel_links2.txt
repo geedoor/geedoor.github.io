@@ -49073,3 +49073,13 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegra
 vless://SERVERNETT-SERVERNETT1@alo007.sernett.ir:80?mode=auto&path=%2F&security=&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.18.181:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.66.92:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/ConfigsHub
+trojan://accbaab-caab-baca-bdac-cacbabacabcb@127.0.0.1:8080?security=tls&type=tcp#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiMTA0LjIxLjE4LjIyNyIsICJhaWQiOiAwLCAiaG9zdCI6ICJqYWhma2poYS5jZmQiLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogW/Cfj4FddC5tZS9Db25maWdzSHViIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiAiYi5kZXJtYWdhLmhvbWVzIiwgImFpZCI6IDEsICJob3N0IjogImIuZGVybWFnYS5ob21lcyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAibGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiBb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiYi5kZXJtYWdhLmhvbWVzIn0=
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.198.23:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiJzNC5jbG91ZGZsYXJlNHdhcmQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc2YTExYjUyLWYzZDAtNDdmOS03Mjg0LTRjMGJkMDEwNjVkZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTAiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://telegram-id-directvpn@15.188.198.23:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5QnZrdzVhdXBOeTg=@205.134.180.147:443#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937918607957654.paris-drc-tusacaf.info:8880?encryption=none&type=grpc&mode=gun&security=none#[🏁]t.me/ConfigsHub
