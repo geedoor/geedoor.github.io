@@ -49554,3 +49554,15 @@ vless://02bbbec4-8e6e-4ea8-982f-cdcac3541f09@109.122.197.72:443?flow=xtls-rprx-v
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=/#⚜️Telegram:@IP_CF
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?type=tcp&security=tls&sni=wus03.weyaf9sdoh2h.space#⚜️Telegram:@IP_CF
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.78.233:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.126.78.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.109:11013?security=tls&headerType=none&type=tcp&sni=wus03.weyaf9sdoh2h.space#⚜️Telegram:@IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.77.10.254:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjkxLjk5LjE4NS4yMTYiLCJwb3J0IjoyMDA4NiwiaWQiOiI3YmQ2YTFlYS1hMjIwLTRmMWMtYWZlZC02Y2ZiOGFiOTZhZDkiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsfQ==
+vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443?type=ws&encryption=none&host=v2ray.codefyinc.com&path=/vlessws&security=tls&sni=v2ray.codefyinc.com&fp=chrome#⚜️Telegram:@IP_CF
+vless://e80cf746-17a5-997c-fb20-80ab68287903@finland.marzxo.biz:8084?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.12.130.190:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTY1LjE0MC4yMTYuMTQxIiwicG9ydCI6IjQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJzbmkiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.77.10.254:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SDhRMU9YS1pST0pWeGRlT3Y2bG83@81.90.31.219:443#⚜️Telegram:@IP_CF
