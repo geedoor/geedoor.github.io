@@ -49637,3 +49637,7 @@ vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@104.26.8.156:443?path=%2F&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMDV0M1lTQ2tyQjJIaFFnTnZsbnFO@213.111.143.243:8830#[🏁]t.me/ConfigsHub
 vless://d447f445-8ac8-46ad-8f93-474a8c57c738@172.66.40.99:8880?path=%2F%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420----%40EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&type=ws#[🏁]t.me/ConfigsHub
 vless://be6daf19-fe29-4b13-983b-42aee457d377@46.62.156.195:25694?type=tcp&security=none#[🏁]t.me/ConfigsHub
+vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.223.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.155.226:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=GfN05.AlANhiAho.coM#[🏁]t.me/ConfigsHub
