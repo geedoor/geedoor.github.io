@@ -49641,3 +49641,8 @@ vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=realit
 trojan://telegram-id-directvpn@35.181.223.66:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://5d77589d-8553-4955-a1bc-16969a5fe8e5@172.237.155.226:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#[🏁]t.me/ConfigsHub
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?path=%2F&security=tls&encryption=none&type=ws&sni=GfN05.AlANhiAho.coM#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.48.61:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=%2F&security=tls&encryption=none&type=ws&sni=smrtwtsm.confappha.com#[🏁]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638969941052745836.athens-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🏁]t.me/ConfigsHub
+vless://8a80687e-e66e-4a9e-8529-cf0ed2b96d4e@vip.ezrael.shop:2089?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.120.48.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
