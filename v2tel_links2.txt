@@ -50007,3 +50007,10 @@ trojan://blue2024@104.16.25.46:443?sni=ta.promote.icu&allowInsecure=0#[🇺🇸]
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.137.105:8119#[🇺🇸]t.me/ConfigsHub
 trojan://34a83286-ba4e-4f0a-ac08-77a95469eeaf@172.66.44.101:443?security=tls&sni=pardazesh18.pages.dev&type=ws&host=pardazesh18.pages.dev&path=%2FTelegram%40Linkvws%3Fed%3D2560&fp=randomized#[🇨🇦]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.215.253.208:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.79.254.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.79.254.11:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@91.228.10.89:8880?mode=gun&security=none&encryption=none&authority=B_&type=grpc#[🇬🇧]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.80:8880?mode=gun&security=none&encryption=none&authority=B_&type=grpc#[🇬🇧]t.me/ConfigsHub
+vless://128d1209-9e9f-4952-9faf-df47ae3648d2@best.cdniran.info:443?encryption=none&type=ws&host=smart.taron01.info&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=smart.taron01.info&alpn=h3,h2#[🇨🇾]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.249:8880?mode=gun&security=none&encryption=none&authority=n------_&type=grpc#[🇬🇧]t.me/ConfigsHub
+vless://8e2d8743-1b59-4fd5-8cf1-84e6019eecb7@masterserver1.heloisfood.ir:6423?encryption=none&type=grpc&mode=gun&serviceName=@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1--@MaSTeRSeRVeR1&security=none#[🇳🇱]t.me/ConfigsHub
