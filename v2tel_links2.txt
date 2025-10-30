@@ -50102,3 +50102,12 @@ vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.148.22:80?type=ws&host=www.s
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.219.160:443?security=tls&sni=lv.kpcloud.eu.org&type=ws&path=%2F%3Fed%3D2048#[🇺🇸]t.me/ConfigsHub
 trojan://telegram-id-directvpn@15.236.140.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?security=tls&encryption=none&type=ws&sni=vless.muzheng.top#[🇭🇰]t.me/ConfigsHub
+vless://8338171d-2ea7-4015-bdea-492f3d5d4e60@5.182.36.56:45886?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=reality&encryption=none&pbk=zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=94f9#[🇨🇭]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ@112.199.240.56:8899#[🇸🇬]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.122.16:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@91.219.237.163:990#[🇭🇺]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4cDFKQ2c3dm5rblJjOEZHS1dmODBs@77.83.246.74:443#[🇵🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPQ01TT2RNZ0I1M01JWUloaVF6ejFu@89.185.84.185:443#[🇬🇧]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMWjNwSEZVQlh0S0toYVNyTDl6TENz@81.19.141.45:443#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.157.122.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxU0lUUFljMmszZGtYcENjMXdNbHNU@194.87.45.189:443#[🇪🇸]t.me/ConfigsHub
