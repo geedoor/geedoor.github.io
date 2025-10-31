@@ -50250,3 +50250,11 @@ vless://70f8697b-f9f3-4692-8e0a-3d1834fd76dc@ip.sb:443?path=%2Fn5p71f3qbfuanejf%
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=vless.muzheng.top&type=ws&sni=vless.muzheng.top#[🇭🇰]t.me/ConfigsHub
 vless://TELEGRAM-CONFiGLiNE-10@test.fast.hosting-ip.com:80?security=none&encryption=none&headerType=none&type=tcp#[🇨🇦]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=none&encryption=none&authority=Join_n---B_N&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://55494ea9-dcea-416a-b2cb-82e6a7cb71fa@log.twixspace.com:443?mode=gun&security=reality&encryption=none&pbk=dUCso1FAr-zors9NhEC__IqYI3fEjyfLvRqksj9lmxw&fp=chrome&type=grpc&sni=wordpress.org&sid=f99c4b933314ec6d#[🇹🇷]t.me/ConfigsHub
+vless://262ef41a-7dc4-5151-db36-d74afbcb5730@dubai.marzxo.biz:8085?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🇦🇪]t.me/ConfigsHub
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?path=%2F&security=tls&encryption=none&host=paS-kaLE-AGhA.pageS.deV&fp=chrome&type=ws&sni=paS-kaLE-AGhA.pageS.deV#[🇨🇦]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.74.68:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://262ef41a-7dc4-5151-db36-d74afbcb5730@russia.marzxo.biz:8086?security=reality&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&fp=firefox&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&sid=828348fc6d8e49cf#[🇷🇺]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.36.74.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://9ea5a2f5-3a56-4282-919c-4dfee486372e@104.19.150.163:8443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.keepfuck.me#[🇺🇸]t.me/ConfigsHub
+vless://664cb874-5182-4ebb-b3b4-5f430f0152dd@5.75.198.232:443?path=%2Fmqstknocyk&security=tls&encryption=none&host=free-pubg-697.pages.dev&type=ws&sni=free-pubg-697.pages.dev#[🇩🇪]t.me/ConfigsHub
