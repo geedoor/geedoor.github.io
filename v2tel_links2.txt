@@ -50275,3 +50275,10 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.170:443?security=tls&sni=
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443?security=tls&sni=119f3a0b.chikiy123w.pages.dev&type=ws&host=119f3a0b.chikiy123w.pages.dev&path=%40v2rayngzendegimamad%2F%3Fed%3D2048&fp=randomized#[🇺🇸]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.167:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.36.74.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=%2F%3Fed%3D2560&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#[🇺🇸]t.me/ConfigsHub
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#⚜️Telegram:@IP_CF
+vmess://eyJhZGQiOiJhcnlhbjEuaGVsc2lua2kydXBsb2FkLnNob3AiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBvbmlzaGEuaXIiLCJpZCI6IjZiMzY0MTEzLWUxZDAtNDFlOS05ZThmLTJiZWVkZjk5YWNlMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIzMTMwIiwicHMiOiJb8J+HrvCfh7dddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ3Ljg2Ljg1Ljk1IiwicG9ydCI6MjA1MjIsImlkIjoiOWJlYWFmY2QtYmRjMS00MjBlLTk4NGEtYjgzNDMzN2JjYjE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC90ZWxlZ3JhbV9Ac3N3aWEiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@31.57.225.58:57456?note=--Telegram--@NetifyVPN--#[🇹🇷]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.23:38388#[🇻🇳]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.84.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
