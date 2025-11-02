@@ -50504,3 +50504,10 @@ vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.13:2053?security=tls&sni=
 trojan://telegram-id-directvpn@63.177.202.143:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://431213f3-cd59-4136-b1a7-75f758150279@pscresearch.faculty.ucdavis.edu:80?mode=auto&path=%2F&security=none&encryption=none&host=xiliunlimited2.global.ssl.fastly.net&type=xhttp#[🇬🇧]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.202.143:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.219.237.163:990#[🇭🇺]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.254.59:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.254.59:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://dc28e2d3-7c69-47c6-b5b0-f76914454294@178.160.211.182:20155?security=none&encryption=none&headerType=none&type=tcp#[🇦🇲]t.me/ConfigsHub
+trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=%2Fazadnet-bdr.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#[🇺🇸]t.me/ConfigsHub
+vless://23076191-ac7c-45f7-e6f1-285fbec2ce96@142.93.109.68:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#[🇩🇪]t.me/ConfigsHub
+vless://1ec975c1-88e9-4d5e-8996-2c3331673f80@dl5-tr4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-tr4-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇹🇷]t.me/ConfigsHub
