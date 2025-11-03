@@ -50646,3 +50646,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638970060570328775.rome-blkaft-aaay
 trojan://telegram-id-directvpn@52.29.98.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 vless://26c99015-b58e-47d2-a4ce-4f4b05b70400@sweden11.clearorbitllc.com:443?security=reality&encryption=none&pbk=6i0TALpH7qy8-xzwJkI13mRsgi2e7lHqKQyAcDSg8Uc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sweden11.clearorbitllc.com&sid=4af2#[🇸🇪]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.12:8880?encryption=none&security=none&type=grpc#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.150.251:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@www.speedtest.net:443?path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=jnir-cdn.javidnaman.com&type=ws&sni=jnir-cdn.javidnaman.com#[🇺🇸]t.me/ConfigsHub
+vless://b0729be7-65bc-40a3-9133-f819b80e23f1@81.177.214.179:47311?security=reality&encryption=none&pbk=DchSkBitz58ADRIkJvJj8SJHEtKkIU2NtUFp252RkDc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=a48f757671845135#[🇫🇮]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2STFtcHFLQXFwZ09kZ2tKd2ltemFI@92.118.112.101:9483#[🇺🇸]t.me/ConfigsHub
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#[🇭🇰]t.me/ConfigsHub
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=h3&encryption=none&host=vless.hubp.de&fp=random&type=ws&sni=vless.hubp.de#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.150.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#[🇭🇰]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@31.57.225.58:57456#[🇹🇷]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.235:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
