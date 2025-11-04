@@ -50741,3 +50741,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=---_&type=grpc#[🇫🇮]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.232.247.177:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.236.232.108:80?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🇺🇸]t.me/ConfigsHub
+vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@104.26.6.89:2087?type=ws&encryption=none&host=DdLxDxZc3.VeLiNtO.OrG&path=/&security=tls&sni=DdLxDxZc3.VeLiNtO.OrG&alpn=h3h2&fp=chrome#⚜️Telegram:@IP_CF
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&fp=random&type=ws&sni=vless.hubp.de#[🇭🇰]t.me/ConfigsHub
