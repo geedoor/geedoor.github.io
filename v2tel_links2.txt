@@ -50854,3 +50854,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.211:8880?mode=gun&security
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&sni=pqh27v7.ipforvetra.shop#[🇺🇸]t.me/ConfigsHub
 vless://0ce5451d-d771-4c7d-887e-1e51aef6fd2b@79.132.136.80:17287?type=tcp&encryption=none#⚜️Telegram:@IP_CF
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.184:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#[🇫🇷]t.me/ConfigsHub
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none#⚜️Telegram:@IP_CF
