@@ -51063,3 +51063,6 @@ vless://ada8d5eb-28c9-495b-bca7-0410f9f67c45@151.101.3.8:80?type=xhttp&encryptio
 
 trojan://telegram-id-directvpn@3.78.16.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 
+trojan://telegram-id-directvpn@63.180.193.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.193.173:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://TELEGRAM-CONFiGLiNE-23@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=aoijji.global.ssl.fastly.net&type=xhttp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%282%29
