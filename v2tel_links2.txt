@@ -51061,3 +51061,4 @@ vmess://eyJhZGQiOiI4My4xNDcuMTMuMjI4IiwiaWQiOiIyNmQ3N2Q3YS1kNGVhLTQwY2QtOGRhNS01
 vless://ca2e23cb-2d9a-4812-d713-506f91d3735f@host17.sheydayeman.nl:8880?encryption=none&type=ws&path=/?ed%3D2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🇨🇦]t.me/ConfigsHub
 vless://ada8d5eb-28c9-495b-bca7-0410f9f67c45@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#[🇨🇦]t.me/ConfigsHub
 
+trojan://telegram-id-directvpn@3.78.16.94:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
