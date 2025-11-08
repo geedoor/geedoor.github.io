@@ -51114,3 +51114,8 @@ vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.131.4.253:2096?encryption=none&s
 trojan://telegram-id-directvpn@15.237.166.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.82.55:443?path=%2F%3Fed%3D2560J---_T&security=tls&alpn=h3&encryption=none&fp=random&type=ws&sni=vless.hubp.de#[🇨🇦]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#⚜️Telegram:@IP_CF
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@mww1ek4ipewzn.toshibl2hvg.lat:2052?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=0ee11e#[🇫🇮]t.me/ConfigsHub
+vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjIzYmRmNmRmLWM0ODItNDZkMC1jMGY0LTVhOThkNTM0ZWExMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvdGVzdCIsInBvcnQiOiI0NTk3OSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+trojan://telegram-id-privatevpns@3.72.128.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.72.68:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@15.157.248.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇨🇦]t.me/ConfigsHub
