@@ -51240,3 +51240,10 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&securi
 vless://820bc646-6b81-471a-8c6b-f7a6f750c62d@bountyhunter.fonixapp.org:34270?security=reality&encryption=none&pbk=foleRktxkiFhRpzlI9JQtPnnUn6uC_69MQOZIedPIRo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=b0f3c87d8b#[🇪🇸]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.37.203.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
 trojan://telegram-id-directvpn@13.37.61.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.63:7001#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.68.134.9:8008#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.85:6697#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6679#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@69.50.92.55:8000#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#[🇺🇸]t.me/ConfigsHub
