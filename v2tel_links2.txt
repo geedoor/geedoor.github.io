@@ -51478,3 +51478,11 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#[🇸🇮]t.me/
 ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.70:9008#[🇵🇱]t.me/ConfigsHub
 trojan://Aimer@104.26.15.138:2053?security=t...&type=tcp#[🇨🇦]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@217.30.10.70:9025#[🇵🇱]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.28.235:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://9d847ad3-1896-48f9-b89c-13fe345e2bff@104.21.48.1:443?mode=packet-up&path=%2Fgdsthjjjvfxsstyy%D8%9Fed%3D443&security=tls&alpn=h3&encryption=none&fp=chrome&type=xhttp&sni=cho.chonon.sbs#[🇨🇦]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.199.28.235:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://401374e6-df77-41fb-f638-dad8184f175b@pqh29v7.ipforvetra.shop:80?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v7.ipforvetra.shop#[🇺🇸]t.me/ConfigsHub
+vless://%65b7f6c%617-802d-493d-d252-ff9%652%65837b75@www.speedtest.net:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#⚜️Telegram:@IP_CF
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#[🇺🇸]t.me/ConfigsHub
+vless://e4824193-4f54-453b-d037-88368e85ef0e@all.tellmethetrue.shop:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh29v6.hiddendom.shop#[🇨🇦]t.me/ConfigsHub
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638982038145569691.prague-drcn-aaaai.info:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
