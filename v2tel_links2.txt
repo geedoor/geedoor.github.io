@@ -51596,3 +51596,12 @@ vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337676447591.lisbon-blkaft-aa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#⚜️Telegram:@IP_CF
 vless://3e7140c5-cbc5-4aff-b232-60efa91ebe1b@152.53.146.76:36659?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=smallpdf.com&pbk=O9IS_8x48rpsn5YovE6lIaJzp_PtzKcyIyeCxPWdwnE&sid=6e&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#[🇩🇪]t.me/ConfigsHub
 vless://032f557c-dd93-429b-87eb-fea2d5438259@193.46.81.151:50853?security=reality&encryption=none&pbk=XT7qcjwBZkCQPQVgzP_afaX76GUbHIysmOhJ1gWsLjs&headerType=none&fp=chrome&spx=/&type=tcp&sni=miro.com&sid=69#⚜️Telegram:@IP_CF
+vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@199.34.228.171:443?security=tls&sni=POOrIaREd--persEPolIS.pAGEs.Dev&type=ws&path=%2FTELEGRAM-MARAMBASHI%2F%3Fed#[🇺🇸]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.0:443?security=tls&sni=dc.ylks.xyz&type=ws&path=%2F%3Fproxyip#[🇺🇸]t.me/ConfigsHub
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@206.238.237.60:443?security=tls&sni=ak.ylks.xyz&type=ws&path=%2Fblue#[🇸🇬]t.me/ConfigsHub
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@104.20.6.134:2083?security=tls&sni=vfarid.xcdi.wOrKERS.DEV&type=ws&host=vfarid.xcdi.wOrKERS.DEV&path=trojan-ws%2F%3Fed%3D2048&alpn=http%2F1.1#[🇨🇦]t.me/ConfigsHub
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@160.79.105.4:443?security=tls&sni=ag.ylks.xyz&type=ws&path=%2Fbluehttps%3A%2F%2Fvless.fxxk.dedyn.io%2Fsub%3Fhost#[🇺🇸]t.me/ConfigsHub
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@198.62.62.241:443?security=tls&sni=aj.ylks.xyz&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@176.34.117.143:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇮🇪]t.me/ConfigsHub
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjYxLjEyMC45LjIwIiwicG9ydCI6NDI2MDAsImlkIjoiOTEyN2I2NTItYWQyNy01MDA2LTA3ZmEtYTM2OWQxZDUwNDY5IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSBKUCA0In0=
+vless://67a224db-a404-46b3-be38-7a919ed487db@188.164.158.79:2053?security=tls&sni=connectingno.technewspaper.store&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#[🇦🇲]t.me/ConfigsHub
