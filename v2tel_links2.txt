@@ -52129,3 +52129,6 @@ trojan://telegram-id-privatevpns@18.193.212.16:22222?security=tls&alpn=http/1.1&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZVF4QjdzTUdwdGZGY3QycWsyRVNMZUNOTExoUlJ3WHJrTlpYQ2RMRll2WXdQUUQ=@5.188.36.54:51348#[🇹🇷]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.212.16:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.164.15:7306#[🇺🇸]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.148.238:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://2274c52572e721086f8bd8f88984643c@160.16.57.238:4211?security=tls&sni=www.nintendogames.net&type=tcp&path=/#⚜️Telegram:@IP_CF
+trojan://telegram-id-directvpn@3.123.148.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
