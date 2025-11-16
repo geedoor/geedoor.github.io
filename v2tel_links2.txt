@@ -52150,3 +52150,5 @@ vless://TELEGRAM-CONFiGLiNE-41@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftel
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.39.28:990#[🇰🇿]t.me/ConfigsHub
 trojan://2274c52572e721086f8bd8f88984643c@202.181.103.235:3169?security=tls&sni=www.nintendogames.net&type=tcp&path=/#⚜️Telegram:@IP_CF
 vless://5e2581cf-75e4-41b7-8f92-7e68fdf60b69@movaghat50.goldspeed.org:23143?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#[🇳🇱]t.me/ConfigsHub
+vless://d5c1b5d7-055b-4457-bc3a-6e99919c1bcb@94.131.104.178:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=latvia6.clearorbitllc.com&pbk=LDEOpY1G4Cw1drC2ao9AQRSTwwhTTMDk5a7Kyw41Hlw&sid=81e0b568&type=raw&headertype=none#[🇱🇻]t.me/ConfigsHub
+vless://774727ed-1e56-41bd-b55f-28549e21bcc8@157.180.68.5:9107?security=reality&encryption=none&pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=e8ef8df79e4a6343#[🇫🇮]t.me/ConfigsHub
