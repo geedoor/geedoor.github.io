@@ -53216,3 +53216,11 @@ vless://976ca394-7957-468f-8e09-7265e17ba98a@185.252.177.178:443?security=realit
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.cloudflare.com&fp=chrome&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&type=tcp&path=/#⚜️Telegram:@IP_CF
 vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&security=none&encryption=none&fp=chrome&type=ws#[🇫🇷]t.me/ConfigsHub
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?encryption=none&security=none&type=ws&path=%2F#[🇱🇻]t.me/ConfigsHub
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-be4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-be4-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇧🇪]t.me/ConfigsHub
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-pl4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-pl4-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇵🇱]t.me/ConfigsHub
+ss://87acaa42-a6dc-4240-a490-bb99b44454f1@sky.ns.cloudflare.com:443?path=%2Ftgysufws&security=tls&encryption=none&host=638992008112154761.jimny-amsib.info&type=ws&sni=638992008112154761.jimny-amsib.info#[🇨🇦]t.me/ConfigsHub
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-it4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-it4-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇫🇷]t.me/ConfigsHub
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-ca4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-ca4-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-us5-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-us5-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇺🇸]t.me/ConfigsHub
+trojan://29ca24a5-e8aa-4cbd-9bcb-f96aba1d6f15@34.22.190.30:443?path=/Free-VPN-CF-Geo-Project/34.22.190.30=443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#⚜️Telegram:@IP_CF
+vless://f0421701-434d-4b7f-aba0-98b2ee1fce9b@dl5-fi4-cdn.fastfilecdn.org:2052?path=%2F&security=none&encryption=none&host=dl5-fi4-cdn.fastfilecdn.org&fp=firefox&type=ws#[🇫🇮]t.me/ConfigsHub
