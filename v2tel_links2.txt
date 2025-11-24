@@ -53316,3 +53316,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MlF1Wjg5aWFaUUVsWUt5MWJEeU9W@77.246.107.222
 vless://a43c4b2a-6203-4216-bd85-0a99afffad15@5.75.206.165:8443?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://a8ef99ba-872f-4a3a-87d8-6cc29c63521c@157.180.29.25:18423?path=%2F&security=none&encryption=none&type=ws#[🇫🇮]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.180.109.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://cc46b32a-8d3b-4b2f-a94a-9c06ce1d7a26@138.197.111.186:443?security=reality&encryption=none&pbk=pi2m-Ofjg4-RyZfHVGwvQmGHMzj7qpR1RVanHkGLfhM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=477b#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.181.120.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://39198da5-1cd5-4d48-b70a-af5a454a22d2@45.144.50.162:443?security=reality&encryption=none&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=22628a15a948#[🇵🇱]t.me/ConfigsHub
+vless://cad50a8e-1b40-4e81-9c36-e2425d910574@62.60.233.21:64392?security=reality&encryption=none&pbk=jkDZG14yH1-j-HH1xDuuKq3IW54FSPSNFfrl9iUWC08&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=9572999470cc445d#[🇹🇷]t.me/ConfigsHub
+vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?security=&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#[🇩🇪]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#[🇺🇸]t.me/ConfigsHub
+vless://1966b89a-3bcf-48a0-926d-71d3b8a03b37@31.56.227.93:443?security=reality&encryption=none&pbk=My4NYF1x_I4nnRhgQXjpKl6BQVtgBWklHP6a3ejmOxU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=aa2fa10da2d1#[🇫🇮]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.120.20:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇨🇵
+vless://0a3db5fe-b108-4e5f-b2db-29eec575b11a@62.182.193.35:443?mode=gun&security=reality&encryption=none&pbk=M0exlrUvM2xpjVjZ9lbohQkMcSjeXEJk2D1ziB1yKVw&fp=chrome&spx=%2F&type=grpc&sni=serr-arnrr-1.blook.network&sid=4032dfbb#[🇸🇪]t.me/ConfigsHub
+vless://c0e671e5-5ab1-4b3f-ab63-b938eba92873@193.233.127.47:443?security=reality&encryption=none&pbk=VcBxJnmuJ3mlh8SqOEncKIFdAlIxhjlfIa252CPcm1w&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c886#[🇳🇱]t.me/ConfigsHub
