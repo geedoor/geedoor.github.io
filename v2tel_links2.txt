@@ -54725,3 +54725,12 @@ vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Ijk1
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.65.107:3169?sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127?security=tls&sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF
 vless://df0af1c8-b758-9acd-6e70-aa85b66cbe62@Itw.sefrtasad.com:3159?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=translation.steampowered.com&fp=firefox&pbk=6OGcyIWrZ5pcyi5cdzDZdFneV2DDrXKV2c8x_KGnG0Q&sid=21432a79954b#[🇮🇹]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.115.216:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+vless://5b687f17-0176-495e-84a1-0835f8feec91@delilah.ns.cloudflare.com:443?path=%2Fegakxows&security=tls&encryption=none&insecure=0&host=639002592262919469.sentra-amsir.info&type=ws&allowInsecure=0&sni=639002592262919469.sentra-amsir.info#[🇺🇸]t.me/ConfigsHub
+trojan://telegram-id-directvpn@63.176.115.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6ImhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInBvcnQiOjgwLCJpZCI6IjAxMTQzMzljLTQ4OGQtMTFlZS04NzkyLWYyM2M5MTY0Y2E1ZCIsImFpZCI6IjIiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyAxMCJ9
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.71:443?security=tls&sni=jf.ylks01.eu.org&type=ws&path=%2Fblue#[🇺🇸]t.me/ConfigsHub
+vless://24ad69fa-fee3-44d5-fff0-a46eeb3d56e0@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇨🇦]t.me/ConfigsHub
+vless://04d63096-ae84-4aa0-a7a1-0b5efd56a2c7@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338903096058.panamera-amsis.info&type=ws&host=639003338903096058.panamera-amsis.info&path=/lmkgbaws#⚜️Telegram:@IP_CF
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&insecure=0&host=639001966536690941.prius-amsiq.info&type=ws&allowInsecure=0&sni=639001966536690941.prius-amsiq.info#[🇨🇦]t.me/ConfigsHub
+ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRvMFlXTXlaakJoTlMxbFkySTNMVFF3Wm1NdE9HUTNNQzAyWldaaU9EZ3lZalV5TlRj@free.2apzhfa.xyz:31113#[🇨🇳]t.me/ConfigsHub
