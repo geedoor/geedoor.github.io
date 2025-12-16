@@ -56139,3 +56139,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@glance.asuscomm.com:10099#⚜️Tele
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjE1LjIzNS40MS4yMDAiLCJwb3J0Ijo4MCwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJhaWQiOiIwIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJnb29nbGUuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYgQ0EgOSJ9
 vless://47ea964c-2d7e-4907-bd22-7b3502ab77b2@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxpl165.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
 vless://a8b47d3d-0cb6-49ac-ad1c-8b079cb1a28f@trt.fastlynew.hosting-ip.com:80?mode=auto&path=%2F%3Fed%3D2560&security=&encryption=none&host=maxfr171.global.ssl.fastly.net&type=xhttp#[🇫🇷]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.122.158.205:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@VlessConfig 🇩🇪
+trojan://telegram-id-directvpn@3.122.158.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+vless://ebe6918f-ff88-4da5-8181-fbb7a161927a@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#[🇬🇧]t.me/ConfigsHub
+vless://54fdfb91-1d27-4c5a-8fb3-61e1b08b2a58@8.39.125.124:443?path=%2Fproxyip%3DProxyIP.SG.CMLiussss.net&security=tls&encryption=none&host=bp.suoni.nyc.mn&fp=random&type=ws&sni=bp.suoni.nyc.mn#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#[🇳🇱]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ%3D%3D@45.83.20.206:443#[🇧🇪]t.me/ConfigsHub
+vless://b5605766-6abe-4f5f-85e1-0f6f447eae66@cosmin.ns.cloudflare.com:443?path=%2Fhdwvmtws&security=tls&encryption=none&host=639013098070588901.macan-amsjd.info&type=ws&sni=639013098070588901.macan-amsjd.info#[🇺🇸]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg%3D%3D@5.182.37.87:443#[🇷🇴]t.me/ConfigsHub
+vless://4394eb25-5dfc-4bf1-a363-1ae168e200b9@151.101.25.242:80?mode=auto&path=%2F&security=none&encryption=none&host=jetde157.global.ssl.fastly.net&type=xhttp#[🇺🇸]t.me/ConfigsHub
+vless://fdec7980-cae0-41cc-d92b-e3604fef5394@usaa.fastlynew.hosting-ip.com:80?path=%2Ftelegeam-%40v2_city--%3Fed%3D2048&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#[🇫🇷]t.me/ConfigsHub
